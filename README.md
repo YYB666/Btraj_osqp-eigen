@@ -1,5 +1,6 @@
 # Btraj_osqp-eigen
 Change the QP solver from Mosek to osqp-eigen ,make it possible to run it on you arm linux
+中文注释
 
 # install [armadillo]:   
  sudo apt-get install libarmadillo-dev
