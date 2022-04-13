@@ -1,5 +1,5 @@
 # Btraj_osqp-eigen
-Change the QP solver from Mosek to osqp-eigen ,make it possible to run it on you arm linux
+Change the QP solver from Mosek to osqp-eigen ,make it possible to run it on you arm linux  
 中文注释
 
 # install [armadillo]:   
